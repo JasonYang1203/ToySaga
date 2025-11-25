@@ -94,6 +94,13 @@ Through this project, I strengthened my skills in:
 - Managing simple animation loops and movement logic
 
 ------------------------------------------------------------
+
+## 🎬 Demo Videos
+- [Demo 1](https://github.com/JasonYang1203/ToySaga/releases/download/demo-v1/toysaga_demo1.mov)
+- [Demo 2](https://github.com/JasonYang1203/ToySaga/releases/download/demo-v1/toysaga_demo2.mov)
+
+------------------------------------------------------------
+
 License
 ------------------------------------------------------------
 MIT License
